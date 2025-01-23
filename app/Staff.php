@@ -11,7 +11,7 @@ class Staff {
 
     // Methold
     public function info() {
-        // Varible
+        // Variable
         $age = 26;
         return "Hello Staff, Your age {$age}";
     }
